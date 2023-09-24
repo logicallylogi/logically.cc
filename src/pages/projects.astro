@@ -1,0 +1,21 @@
+---
+import Layout from "../layouts/primary.astro"
+import ProjectDisplay from "../components/projectdisplay.astro";
+const projects = await Astro.glob('../pages/projects/*.md');
+---
+<Layout>
+    <table>
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Source</th>
+            <th>Status</th>
+            <th>Link</th>
+        </tr>
+        </thead>
+        <tbody>
+        {projects.map((post) => <ProjectDisplay object={post} />)}
+        </tbody>
+    </table>
+</Layout>
