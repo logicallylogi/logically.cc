@@ -1,7 +1,7 @@
 ---
 title: Rock/Paper/Scissors
 category: Fun
-status: Planned
+status: Online
 source: https://git.ixvd.net/logically.cc/rockpaperscissors
 layout: ../../layouts/primary.astro
 ---
