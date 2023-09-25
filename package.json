@@ -3,9 +3,9 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "NODE_PATH=. astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "NODE_PATH=. astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
