@@ -23,3 +23,6 @@ pnpm-debug.log*
 # ide files
 .idea/
 .vscode/
+
+# testing space
+/src/pages/testing.astro

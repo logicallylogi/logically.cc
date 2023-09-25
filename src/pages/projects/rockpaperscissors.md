@@ -8,8 +8,10 @@ layout: ../../layouts/primary.astro
 # Rock/Paper/Scissors
 ```For when you have no hands but you have thumbs```
 
-## Planned Features
-- Single-player mode
+## Features
 - AI mode (totally predicts your next move)
 - Score-keeping
-- Custom additions
+
+*Version 1.0.0*
+
+[Open App](/rockpaperscissors)

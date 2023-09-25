@@ -13,4 +13,6 @@ layout: ../../layouts/primary.astro
 - Uses text field as well as buttons
 - Uses "safe eval"
 
+*Version 1.0.0*
+
 [Open App](/calc)
