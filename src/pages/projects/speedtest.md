@@ -1,8 +1,8 @@
 ---
-title: LogicalSpeedTest
+title: SpeedTest
 category: Utility
-status: Offline
-source: https://git.ixvd.net/logicallylogi.me/speedtest
+status: Online
+source: https://git.ixvd.net/logically.cc/speedtest
 layout: ../../layouts/primary.astro
 ---
-[Check your speed now](/speedtest)
+[Check your speed now!](/speedtest)
