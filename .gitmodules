@@ -1,3 +1,6 @@
 [submodule "src/pages/speedtest"]
 	path = src/pages/speedtest
 	url = https://git.ixvd.net/logically.cc/speedtest
+[submodule "src/pages/calc"]
+	path = src/pages/calc
+	url = https://git.ixvd.net/logically.cc/calc

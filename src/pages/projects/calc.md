@@ -1,14 +1,16 @@
 ---
 title: Calculator
 category: Utility
-status: Planned
+status: Online
 source: https://git.ixvd.net/logically.cc/calc
 layout: ../../layouts/primary.astro
 ---
 # Calculator
 ```For when the calculator on your phone is too much hassle, so you google "Calculator" and go to the 4th page```
 
-## Planned Features
+## Features
 - Addition, Subtraction, Multiplication, Division
 - Uses text field as well as buttons
-- Doesn't use `eval()` but rather uses a parser
+- Uses "safe eval"
+
+[Open App](/calc)
