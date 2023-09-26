@@ -1,7 +1,7 @@
 ---
 title: Magic 8 Ball
 category: Fun
-status: Planned
+status: Online
 source: https://git.ixvd.net/logically.cc/8ball
 layout: ../../layouts/primary.astro
 ---
@@ -11,5 +11,7 @@ layout: ../../layouts/primary.astro
 ## Planned Features
 - Random Responses
 - "Adult" Mode (Responses with cursing)
-- Speak aloud
-- Detect device shaking instead of requiring button press
+
+*Version 1.0.0*
+
+[Open App](/8ball)

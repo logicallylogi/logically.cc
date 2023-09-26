@@ -7,3 +7,6 @@
 [submodule "src/pages/rockpaperscissors"]
 	path = src/pages/rockpaperscissors
 	url = https://git.ixvd.net/logically.cc/rockpaperscissors
+[submodule "src/pages/8ball"]
+	path = src/pages/8ball
+	url = https://git.ixvd.net/logically.cc/8ball
