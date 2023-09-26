@@ -10,3 +10,6 @@
 [submodule "src/pages/8ball"]
 	path = src/pages/8ball
 	url = https://git.ixvd.net/logically.cc/8ball
+[submodule "src/pages/clock"]
+	path = src/pages/clock
+	url = https://git.ixvd.net/logically.cc/clock
